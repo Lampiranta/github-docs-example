@@ -55,10 +55,10 @@ else
 end
 ```
 
-- Make note of where the backtick button is located. 
+- Make note of where the backtick key is located. 
 - It should appear next to backspace key, but it may vary based on your keyboard layout.
 
-<img src="https://github.com/Lampiranta/github-docs-example/assets/39466981/5db575bc-654b-463f-add1-90d3180db58a" alt="Image Description" width="700px" />
+<img src="assets/backtick-key.png" alt="Image Description" width="700px" />
 
 Good cloud engineers use codeblocks for both code and errors that appear in the console.
 
@@ -70,6 +70,13 @@ example.rb:2:in `divide'
 example.rb:8:in `<main>'
 ```
 >Here is an example of using a codeblock for an error that appears in bash.
+## Step 2 - How to take screenshots
+
+A Screenshot is when you capture a part of your screen from your laptop, desktop or phone.
+
+This is not to be confused with taking a photo with your phone.
+
+![A photo with your phone](assets/not-a-screenshot.png)
 
 ## Step 3 - Use Github Flavored Task Lists
 
@@ -96,6 +103,9 @@ GitHub Flavored Markdown (GFM) supports emoji shortcodes.
 ``` 
 Github extends the functionality of Markdown tables to provide more alignment and table cell formatting options [<sup>[2]</sup>](#references)
 
+- Make note of where the pipe key is located. 
+- It should appear next to `z` key, but it may vary based on your keyboard layout.
+![Photo of the pipe character on the keyboard](assets/pipe-key.png)
 
 ## References
 - [GitHub Flavored Markdown Spec](https://github.github.com/gfm/) 
