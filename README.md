@@ -161,6 +161,8 @@ Github extends the functionality of Markdown tables to provide more alignment an
 - It should appear next to `z` key, but it may vary based on your keyboard layout.
 ![Photo of the pipe character on the keyboard](assets/pipe-key.png)
 
+[Secret Window Hidden Garden](secret-window/hidden-garden.md)
+
 ## References
 - [GitHub Flavored Markdown Spec](https://github.github.com/gfm/) 
 - [Basic writing and formatting syntax (Github Flavored Markdown)](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) 
